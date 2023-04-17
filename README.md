@@ -1,2 +1,2 @@
 # vente-logement-laravel-9
-username :username ,password:123456
+nom utilisateur :alain ,mot de passe:nirina
